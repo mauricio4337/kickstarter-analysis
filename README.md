@@ -3,8 +3,11 @@ Analysis of Kickstarter data to uncover trends
 ## Analysis
 * The median goal for successful Kickstarters in the US was $3,000, the mean goal reached was $5,049
 * Theater Campaigns started in early spring are more successful than those started later in the year
+![Launch Date Outcomes](https://github.com/mauricio4337/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Launch%20Date.png "Launch Date Outcomes")
 * 60% of all Theater Campaigns are successful world wide, while a slightly smaller percentage are successful in the US (57%)
+![Woarld Wide Theater Campaigns](https://github.com/mauricio4337/kickstarter-analysis/blob/master/Category%20Outcomes%20for%20Theater%20WW.png "World Wide Theater Campaigns")
 * 61% of all Campains for Plays in the US were successful
+![Outcomes for US Play Campaigns](https://github.com/mauricio4337/kickstarter-analysis/blob/master/Subcategory%20for%20Plays%20in%20US.png "Outcomes for US Play Campaigns")
 * The mean donation for Successful Play Campaigns in the US is $88.78 and the average number of backers is 63. 
 
 
